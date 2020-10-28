@@ -1,0 +1,1 @@
+Code JQuery Library (jquerry.min) => jquery.org/license

@@ -1,0 +1,9 @@
+Font : Montserrat
+https://fonts.googleapis.com/css?family=Montserrat
+
+Gambar lainnya pada folder asset ini, di dapat
+dari screenshot in game Lost Saga Indonesia oleh
+ kelompok kami
+(https://lostsaga.gemscool.com/)
+dan beberapa asset tersebut kami edit 
+menggunakan Photoshop CC2018 dan https://pixlr.com/e/
